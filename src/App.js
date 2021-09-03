@@ -27,18 +27,17 @@ function App() {
     track: {},
   })(Switch);
 
-  const dictionaryApi = async () => {
-    try {
-      const data = await axios.get(
-        `https://api.dictionaryapi.dev/api/v2/entries/${category}/${word}`
-      );
-      setMeanings(data.data);
-    } catch (error) {
-      console.log(error);
-    }
-  };
-
   useEffect(() => {
+    const dictionaryApi = async () => {
+      try {
+        const data = await axios.get(
+          `https://api.dictionaryapi.dev/api/v2/entries/${category}/${word}`
+        );
+        setMeanings(data.data);
+      } catch (error) {
+        console.log(error);
+      }
+    };
     dictionaryApi();
   }, [word, category]); // Provide it word & category everytime
 
