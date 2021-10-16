@@ -24,7 +24,7 @@ A real-time dictionary web app to look up words in 12 languages.
 - 🌚 Dark mode
 
 ## Demo
-- You can check a working versuib of lexify <a href="https://lexify.netlify.app" target="_">here</a>.
+- You can check a working version of lexify <a href="https://lexify.netlify.app" target="_">here</a>.
 
 ## Roadmap
 
