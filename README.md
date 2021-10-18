@@ -5,7 +5,7 @@
 <h3 align="center">
   <a href="#features">Features</a>
   <span> | </span>
-  <a href="https://lexify.netlify.app">Demo</a>
+  <a href="https://lexify.netlify.app" target="blank">Demo</a>
   <span> | </span>
   <a href="#roadmap">Roadmap</a>
 </h3>
@@ -24,7 +24,7 @@ A real-time dictionary web app to look up words in 12 languages.
 - 🌚 Dark mode
 
 ## Demo
-- You can check out a working version of lexify <a href="https://lexify.netlify.app" target="_">here</a>.
+- You can check out a working version of lexify <a href="https://lexify.netlify.app" target="blank">here</a>.
 
 ## Roadmap
 
