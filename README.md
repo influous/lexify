@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/influous/lexify/blob/master/public/lexify-logo.svg" alt="Lexify logo" width="300px" />
+  <img src="https://github.com/influous/lexify/blob/master/public/logo-lexify.png" alt="Lexify logo" width="380px" />
 </div>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 
-# lexify 📖
+# lexify [![CI Status](https://img.shields.io/netlify/45764bcf-1fbf-4c71-a157-d67b579dfd5a?label=CI)](https://app.netlify.com/sites/lexify/deploys)
 
 A real-time dictionary web app to look up words in 12 languages.
 
